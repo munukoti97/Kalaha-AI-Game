@@ -1,8 +1,7 @@
 # Kalaha Game 
 
-Kalaha AI by Rahul Reddy Katiki Reddy
 
-I am aiming for grade A, so i implemented the following features:
+I implemented the following features:
 
 * MiniMax algorithm with depth-first search implemented
 * Iterative Deepening
